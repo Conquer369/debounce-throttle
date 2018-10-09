@@ -1,0 +1,29 @@
+{
+  "name": "debounce-throttle",
+  "version": "1.0.0",
+  "description": "函数防抖&amp;函数节流",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conquer369/debounce-throttle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conquer369/debounce-throttle/issues"
+  },
+  "homepage": "https://github.com/Conquer369/debounce-throttle#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9"
+  }
+}
